@@ -119,7 +119,7 @@ Database of crocodile attacks [CrocBITE](http://www.crocodile-attack.info/)
 
 ### Papers
 
-ehler, N., Kopsieker, L., Staniewicz, A., Dharmansyah, S., Stuebing, R., Ziegler, T. 2018. Population size, demography and diet of the Siamese crocodile, *Crocodylus siamensis* (Schneider, 1801) in the Mesangat Swamp in Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**506-516 [PDF](../assets/PDF/Behler2018Mesangat-siamensis.pdf)
+Behler, N., Kopsieker, L., Staniewicz, A., Dharmansyah, S., Stuebing, R., Ziegler, T. 2018. Population size, demography and diet of the Siamese crocodile, *Crocodylus siamensis* (Schneider, 1801) in the Mesangat Swamp in Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**506-516 [PDF](../assets/PDF/Behler2018Mesangat-siamensis.pdf)
 
 Bezuijen, M.R. 2010. *Crocodylus siamensis* (Siamese crocodile) diet. *Herpetological Review* **41:**68-69
 
