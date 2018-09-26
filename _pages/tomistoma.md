@@ -164,6 +164,8 @@ Rachmawan, D., Brend, S. 2009. Human - Tomistoma interactions in Central Kaliman
 
 Staniewicz, A., Youngprapakorn, U., Jones, G. 2018. First report of physiological color change in a crocodilian. *Copeia*. **106:**264-267 [link](http://www.bioone.org/doi/abs/10.1643/CP-17-711)
 
+Staniewicz, A., Behler, N., Dharmansyah, S., Jones, G. 2018. Niche partitioning between juvenile sympatric crocodilians in Mesangat Lake, East Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**528-537 [PDF](../assets/PDF/Staniewicz2018Mesangat-croc-niche.pdf)
+
 Stuebing, R.B., Bezuijen, M.R., Auliya, M., Voris, H.K. 2006. The current and historic distribution of *Tomistoma schlegelii* (the false gharial) (Müller, 1838) (Crocodylia, Reptilia). *The Raffles Bulletin of Zoology* **54:**181-197
 
 Stuebing, R., Sommerlad, R., Staniewicz, A. (2015): Conservation of the Sunda gharial *Tomistoma schlegelii* in Lake Mesangat, Indonesia. *International Zoo Yearbook* **49:**137–149 [PDF](../assets/PDF/Stuebing2015-Mesangat.pdf)

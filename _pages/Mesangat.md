@@ -204,7 +204,9 @@ Flooded oil palm plantantion (2010).
 
 ### **Papers:**
 
-Staniewicz, A., Behler, N., Suimah, Jones, G. 2018. Niche partitioning between juvenile sympatric crocodilians in Mesangat Lake, East Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. *In press.*
+Staniewicz, A., Behler, N., Dharmansyah, S., Jones, G. 2018. Niche partitioning between juvenile sympatric crocodilians in Mesangat Lake, East Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**528-537 [PDF](../assets/PDF/Staniewicz2018Mesangat-croc-niche.pdf)
+
+Behler, N., Kopsieker, L., Staniewicz, A., Dharmansyah, S., Stuebing, R., Ziegler, T. 2018. Population size, demography and diet of the Siamese crocodile, *Crocodylus siamensis* (Schneider, 1801) in the Mesangat Swamp in Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**506-516 [PDF](../assets/PDF/Behler2018Mesangat-siamensis.pdf)
 
 Stuebing, R., Sommerlad, R., Staniewicz, A. 2015: Conservation of the Sunda gharial *Tomistoma schlegelii* in Lake Mesangat, Indonesia. *International Zoo Yearbook* **49:**137–149 [PDF](../assets/PDF/Stuebing2015-Mesangat.pdf)
 
