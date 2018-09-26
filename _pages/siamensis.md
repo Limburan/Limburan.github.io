@@ -68,7 +68,7 @@ Mostly this:
 
 ![alt text](/assets/images/cs-move-do-new.gif "Siamese crocodile escaping")
 
-Hardly anything is known about the ecology and behaviour of wild *Crocodylus siamensis*. Apart from Mesangat, few populations are still present in other countries. Unlike saltwater crocodiles, *C. siamensis* is only found in freshwater. Their diet, nesting biology and ecology are currently studied in Mesangat.  
+Hardly anything is known about the ecology and behaviour of wild *Crocodylus siamensis*. Apart from Mesangat, few populations are still present in other countries. Unlike saltwater crocodiles, *C. siamensis* is only found in freshwater. Their diet, nesting biology and ecology are currently studied in Mesangat (Behler *et al.*, 2018, Staniewicz *et al.*, 2018).  
 
 ## Do they eat people?
 
@@ -124,3 +124,5 @@ Behler, N., Kopsieker, L., Staniewicz, A., Dharmansyah, S., Stuebing, R., Ziegle
 Bezuijen, M.R. 2010. *Crocodylus siamensis* (Siamese crocodile) diet. *Herpetological Review* **41:**68-69
 
 Cox, Jr, J. H., Phothitay, C. 2008. Surveys of the Siamese crocodile *Crocodylus siamensis* in Savannakhet Province, Lao PDR. OZ Minerals Ltd. & Wildlife Conservation Society
+
+Staniewicz, A., Behler, N., Dharmansyah, S., Jones, G. 2018. Niche partitioning between juvenile sympatric crocodilians in Mesangat Lake, East Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**528-537 [PDF](../assets/PDF/Staniewicz2018Mesangat-croc-niche.pdf)

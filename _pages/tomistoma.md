@@ -111,7 +111,7 @@ Tomistoma snout is 4.5 times as long as wide at its base. Only in Indian gharial
 
 {% include gallery id="gallery1" caption="Mostly this." %}
 
-Relatively little is known about the ecology and behaviour of *Tomistoma schlegelii* in the wild. In Mesangat, the species is notoriously shy, rarely basks, and its cryptic colouration often makes it difficult to find it. Tomistoma builds mound nest at a base of a tree near the water’s edge and does not appear to care for young once they hatch. For many years it was thought that tomistomas feed primarily on fish, since the long slender snout and protruding teeth – similar to the fish-eating Indian gharial – allow for quick movements in the water to catch fast slippery prey. However, other animals, such as birds and monkeys have also been reported as prey (Gladikas 1985; Yeager, 1991). Wild tomistoma ecology, including diet and nesting biology are currently studied in Mesangat.
+Relatively little is known about the ecology and behaviour of *Tomistoma schlegelii* in the wild. In Mesangat, the species is notoriously shy, rarely basks, and its cryptic colouration often makes it difficult to find it. Tomistoma builds mound nest at a base of a tree near the water’s edge and does not appear to care for young once they hatch. For many years it was thought that tomistomas feed primarily on fish, since the long slender snout and protruding teeth – similar to the fish-eating Indian gharial – allow for quick movements in the water to catch fast slippery prey. However, other animals, such as birds and monkeys have also been reported as prey (Gladikas 1985; Yeager, 1991). Wild tomistoma ecology, including diet and nesting biology are currently studied in Mesangat (Staniewicz *et al.*, 2018).
 
 ## Do they eat people?
 
