@@ -9,8 +9,8 @@ author_profile: true
 
 Behler, N., Kopsieker, L., **Staniewicz, A.**, Dharmansyah, S., Stuebing, R., Ziegler, T. 2018. Population size, demography and diet of the Siamese crocodile, *Crocodylus siamensis* (Schneider, 1801) in the Mesangat Swamp in Kalimantan, Indonesia. *The Raffles Bulletin of Zoology*. **66:**506-516 [PDF](../assets/PDF/Behler2018Mesangat-siamensis.pdf)
 
-**Staniewicz, A.**, Youngprapakorn, U., Jones, G. 2018. First report of physiological color change in a crocodilian. *Copeia*. **106:**264-267 [link](http://www.bioone.org/doi/abs/10.1643/CP-17-711)
+**Staniewicz, A.**, Youngprapakorn, U., Jones, G. 2018. First report of physiological color change in a crocodilian. *Copeia*. **106:**264-267 [PDF](../assets/PDF/Staniewicz-2018-colour-change.pdf)
 
-Stuebing, R., Sommerlad, R., **Staniewicz, A.** 2015. Conservation of the Sunda gharial *Tomistoma schlegelii* in Lake Mesangat, Indonesia. *International Zoo Yearbook*. **49:**137-149 [link](http://onlinelibrary.wiley.com/doi/10.1111/izy.12068/pdf)
+Stuebing, R., Sommerlad, R., **Staniewicz, A.** 2015. Conservation of the Sunda gharial *Tomistoma schlegelii* in Lake Mesangat, Indonesia. *International Zoo Yearbook*. **49:**137-149 [PDF](../assets/PDF/Stuebing2015-Mesangat.pdf)
 
 Bezuijen, M., Shwedick, B., Simpson, B., **Staniewicz, A.**, Stuebing, R. 2014. *Tomistoma schlegelii*. *The IUCN Red List of Threatened Species*. eT21981A2780499. [link](http://www.iucnredlist.org/details/21981/0)
