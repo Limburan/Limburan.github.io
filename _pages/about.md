@@ -12,5 +12,5 @@ Hi, My name is Agata Staniewicz. I'm a zoologist specialising in rare crocodile 
 
 ## Contact
 
-I'f you would like to know more or have any questions, you can send me a message on Twitter @AgataStaniewicz or email me at: agata.staniewicz@bristol.co.uk
+I'f you would like to know more or have any questions, you can send me a message on Twitter @AgataStaniewicz or email me at: agata.staniewicz@bristol.ac.uk
 
