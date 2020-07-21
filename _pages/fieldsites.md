@@ -8,7 +8,7 @@ permalink: /fieldsites/
 
 Taï National Park, Côte d'Ivoire
 
-Bongo River, Moukalaba Doudou National Park, Gabon
+Moukalaba Doudou National Park, Gabon
 
 ## **2011-2012**
 

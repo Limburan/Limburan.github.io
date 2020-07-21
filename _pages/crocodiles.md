@@ -12,13 +12,13 @@ Siamese crocodile [*Crocodylus siamensis*](/siamensis/)
 
 Tomistoma [*Tomistoma schlegelii*](/tomistoma/)
 
-## **in Bongo River, Gabon**
+## **in Moukalaba Doudou National Park, Gabon**
 
 ### Species profiles 
 
 Nile crocodile *Crocodylus niloticus*
 
-Slender-snouted crocodile *Mecistops cataphractus*
+Slender-snouted crocodile *Mecistops leptorhynchus*
 
 Dwarf crocodile *Osteolaemus tetraspis*
 
@@ -28,4 +28,4 @@ Dwarf crocodile *Osteolaemus tetraspis*
 
 Western slender-snouted crocodile *Mecistops cataphractus*
 
-Western dwarf crocodile *Osteolaemus tetraspis*
+Western dwarf crocodile *Osteolaemus* aff. *tetraspis*
