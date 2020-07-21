@@ -8,7 +8,7 @@ header:
   caption: "My FieldworkFail illustrated by Jim Jourdane"
 ---
 
-Hi, My name is Agata Staniewicz. I'm a zoologist specialising in rare crocodile ecology and conservation. This blog documents some of my research and fieldwork with crocodiles in Indonesia, Gabon and Côte d'Ivoire. 
+Hi, My name is Dr Agata Staniewicz. I'm a zoologist specialising in rare crocodile ecology and conservation. This blog documents some of my research and fieldwork with crocodiles in Indonesia, Gabon and Côte d'Ivoire. 
 
 ## Contact
 
