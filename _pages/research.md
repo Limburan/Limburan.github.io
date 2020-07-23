@@ -8,7 +8,7 @@ author_profile: true
 ## PhD (University of Bristol) 2015-2019##
  
 ##### Title #####
-### Acoustic communication of rare and threatened crocodilians and its use for population monitoring ###
+Acoustic communication of rare and threatened crocodilians and its use for population monitoring
 
 ##### Supervisors #####
 Dr Marc Holderied (University of Bristol) and Dr Gráinne McCabe (Bristol Zoological Society)
@@ -22,7 +22,7 @@ Freshwater animal populations can be more vulnerable to human impact than those 
 ## MSc (University of Bristol) 2010-2013##
 
 ##### Title #####
-### Ecology and conservation of juvenile crocodilians *Tomistoma schlegelii* and *Crocodylus siamensis* in Mesangat Lake, East Kalimantan, Indonesia ###
+Ecology and conservation of juvenile crocodilians *Tomistoma schlegelii* and *Crocodylus siamensis* in Mesangat Lake, East Kalimantan, Indonesia
 
 ##### Supervisor #####
 Prof Gareth Jones
