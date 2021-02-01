@@ -1,16 +1,14 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
   - title: "Research"
     url: /research/  
   - title: "Publications"
     url: /publications/
-  - title: "Fieldsites"
-    url: /fieldsites/
+  - title: "Blog"
+    url: /blog/
   - title: "Crocodiles"
     url: /crocodiles/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/
