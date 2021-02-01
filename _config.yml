@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Was that a crocodile?"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Agata Staniewicz"
 description              : "My site and fieldwork blog"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Agata Staniewicz"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "I'm a zoologist interested in herpetology, conservation, bioacustics and crocodile ecology. I spend some of my time on swamps around the world, looking for and recording crocodiles."
-  location         : "Bristol, UK"
+  bio              : "I'm a zoologist interested in bioacoustics, behavioural ecology, conservation and crocodilians. I spend some of my time on swamps and forests around the world, looking for and recording crocodiles."
+  location         : "UK"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
