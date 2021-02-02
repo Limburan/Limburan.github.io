@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-##Education and research experience##
+## Education and research experience
 
 2015-2020 **PhD**, University of Bristol (UK) <br>
 *Supervisors*: Prof Marc Holderied (University of Bristol) and Dr Gráinne McCabe (Bristol Zoological Society) <br>
