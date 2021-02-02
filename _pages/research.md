@@ -10,7 +10,7 @@ author_profile: true
 2015-2020 **PhD**, University of Bristol (UK) <br>
 *Supervisors*: Prof Marc Holderied (University of Bristol) and Dr Gráinne McCabe (Bristol Zoological Society) <br>
 *Thesis title*: Acoustic communication of rare and threatened crocodilians and its use for population monitoring. <br>
-*Description*: Established species-specific vocal repertoires and tested acousticmonitoring methods for crocodile populations in Southeast Asia and West Africa. 
+*Description*: Established species-specific vocal repertoires and tested acoustic monitoring methods for crocodile populations in Southeast Asia and West Africa. 
 
 2014 **Field assistant**, ZSL Tsaobis Baboon Project (Namibia)
 
