@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education and research experience
 
-2021-present **Postdoctoral researcher**, Adam Mickiewicz University (Poland) <br>
+2021-present **Postdoctoral researcher**, Department of Behavioural Ecology, Adam Mickiewicz University (Poland) <br>
 
 2015-2020 **PhD**, University of Bristol (UK) <br>
 *Acoustic communication of rare and threatened crocodilians and its use for population monitoring* <br>
