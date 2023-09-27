@@ -30,6 +30,7 @@ interests:
   - species monitoring
   - behavioural ecology
   - conservation
+  - human-wildlife conflict
   - herpetology
   - ornithology
 
