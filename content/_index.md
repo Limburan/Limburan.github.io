@@ -41,32 +41,32 @@ sections:
       items:
         - title: Postdoctoral researcher
           company: Adam Mickiewicz University
-          company_url: ''
-          company_logo: ''
+          company_url: 'http://behaecol.home.amu.edu.pl/'
+          company_logo: amu
           location: Poznań, Poland
           date_start: '2021-02-14'
           date_end: ''
           description: Investigating interspecific competition in bird communities in boreal, temperate and tropical forests using passive acoustic monitoring and playback experiments.
         - title: PhD researcher
           company: University of Bristol
-          company_url: ''
-          company_logo: amu
+          company_url: 'https://bristol.ac.uk/biology/'
+          company_logo: bristol
           location: Bristol, UK
           date_start: '2015-09-20'
           date_end: '2020-01-05'
           description: Established species-specific vocal repertoires and tested acoustic monitoring methods for crocodile populations in Southeast Asia and West Africa.
         - title: Field assistant
           company: ZSL Tsaobis Baboon Project
-          company_url: ''
-          company_logo: ''
+          company_url: 'http://tsaobisbaboonproject.org/'
+          company_logo: tsaobis
           location: Tsaobis, Namibia
           date_start: '2014-04-01'
           date_end: '2014-11-01'
           description: Collected behavioural data and perfromed playback experiments on wild chacma baboons as part of a long-term project. 
         - title: MSc researcher
           company: University of Bristol
-          company_url: ''
-          company_logo: ''
+          company_url: 'https://bristol.ac.uk/biology/'
+          company_logo: bristol
           location: Bristol, UK
           date_start: '2010-10-20'
           date_end: '2013-06-01'
