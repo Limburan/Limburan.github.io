@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Marine & Freshwater Research* 73(11) 1331-1338"
+publication: "*Marine & Freshwater Research* 73(11): 1331-1338"
 publication_short: ""
 
 abstract: Increasing human–crocodile conflict (HCC) is a major conservation and management issue. Although three species are responsible for most attacks, on occasion, some slender-snouted species, such as tomistoma (*Tomistoma schlegelii*), are also implicated. To analyse reports of confirmed and suspected attacks on humans by tomistoma and explore potential causes and solutions. Reports of attacks were collected for the CrocBITE project from January 2010 to December 2019, utilising media reports and communication with local authorities. Attack trends, including outcome, victim demographics and activities, geographic location, and other details were analysed. We recorded 31 attacks, including 10 deaths, where the culprit species was confirmed or strongly suspected to be a tomistoma. The Jambi province of Sumatra was the site of most attacks and most victims were male and fishing at the time. In addition, most attacks were reported during the 3-year period from 2016 to 2018. On rare occasions, tomistoma prey upon humans. Certain anthropogenic factors may be altering tomistoma behaviour and contributing to increased conflict. Tomistoma were recently up listed from Vulnerable to Endangered on the IUCN Red List and this conflict is yet another threat facing the species, alongside the destruction habitat.

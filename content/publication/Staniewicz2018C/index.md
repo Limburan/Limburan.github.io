@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Copeia* 106(2) 264-267"
+publication: "*Copeia* 106(2): 264-267"
 publication_short: ""
 
 abstract: Physiological color change in animals is a rapid process involving the redistribution of pigments within chromatophores, and may have roles in camouflage, communication, or thermoregulation. Although observed in other ectotherms, it has not previously been documented in crocodilians. Using wild and captive Sunda gharials (*Tomistoma schlegelii*), we confirm rapid ventral color change in juveniles, as evidenced by significantly darker ventral scales in illuminated vs. dark environments. We also found that color varied significantly with body size, with larger individuals losing the ability to change color, and by testing environmental factors potentially triggering color change—temperature, ambient light, background color, or stress—we report that illumination was the only factor observed to explain the change. Our results reveal an unusual trait not corresponding to established countershading patterns, which provides a basis for further research not only into crocodilian behavioral ecology and physiology, but also into animal camouflage and convergent evolution. These results add further evidence to Tomistoma being an evolutionarily distinct lineage of crocodilian, confined to the threatened peat swamp habitats of Southeast Asia.
