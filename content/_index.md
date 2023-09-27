@@ -42,7 +42,7 @@ sections:
         - title: Postdoctoral researcher
           company: Adam Mickiewicz University
           company_url: ''
-          company_logo: amu.svg
+          company_logo: amu
           location: Poznań, Poland
           date_start: '2021-02-14'
           date_end: ''
