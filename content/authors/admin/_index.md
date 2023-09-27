@@ -60,9 +60,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=zG8i9cMAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?hl=en&user=zG8i9cMAAAAJ&view_op=list_works&sortby=pubdate
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/Limburan
