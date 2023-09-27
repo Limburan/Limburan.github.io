@@ -42,7 +42,7 @@ sections:
         - title: Postdoctoral researcher
           company: Adam Mickiewicz University
           company_url: ''
-          company_logo: amu
+          company_logo: ''
           location: Poznań, Poland
           date_start: '2021-02-14'
           date_end: ''
@@ -50,7 +50,7 @@ sections:
         - title: PhD researcher
           company: University of Bristol
           company_url: ''
-          company_logo: bristol
+          company_logo: ''
           location: Bristol, UK
           date_start: '2015-09-20'
           date_end: '2020-01-05'
@@ -58,7 +58,7 @@ sections:
         - title: Field assistant
           company: ZSL Tsaobis Baboon Project
           company_url: ''
-          company_logo: tsaobis
+          company_logo: ''
           location: Tsaobis, Namibia
           date_start: '2014-04-01'
           date_end: '2014-11-01'
@@ -66,7 +66,7 @@ sections:
         - title: MSc researcher
           company: University of Bristol
           company_url: ''
-          company_logo: bristol
+          company_logo: ''
           location: Bristol, UK
           date_start: '2010-10-20'
           date_end: '2013-06-01'
