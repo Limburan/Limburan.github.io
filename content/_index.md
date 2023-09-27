@@ -50,7 +50,7 @@ sections:
         - title: PhD researcher
           company: University of Bristol
           company_url: ''
-          company_logo: ''
+          company_logo: amu
           location: Bristol, UK
           date_start: '2015-09-20'
           date_end: '2020-01-05'
