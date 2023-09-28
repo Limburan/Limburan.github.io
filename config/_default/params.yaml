@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Agata Staniewicz.'
+    notice: '© {year} Agata Staniewicz. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
