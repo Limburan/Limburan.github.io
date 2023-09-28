@@ -1,29 +1,30 @@
 ---
-title: "Tomistoma schlegelii"
+title: "Records of the Endangered Storm's Stork Ciconia stormi in East Kutai, East Kalimantan, Indonesia, and notes on its conservation in Borneo"
 authors:
-- Mark Bezuijen
-- Bruce Shwedick
-- Boyd Simpson
+- Brian Martin
+- Iwan Karo
+- Suimah Darmansyah
 - admin
 - Robert Stuebing
+- Ding Li Yong
 
-date: "2014-01-0T00:00:00Z"
-doi: "10.2305/IUCN.UK.2014-1.RLTS.T21981A2780499.en"
+date: "2022-01-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The IUCN Red List of Threatened Species*"
+publication: "*BirdingASIA* 38: 83-85"
 publication_short: ""
 
-abstract: ''
+abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'file:///home/agata/Downloads/10.2305_IUCN.UK.2014-1.RLTS.T21981A2780499.en.pdf'
+url_pdf: "uploads/papers/Martin 2022 storms stork Kalimantan.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Photo credit Brian Martin'
   focal_point: ""
   preview_only: false
 
@@ -56,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [mesangat]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
