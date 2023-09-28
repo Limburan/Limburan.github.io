@@ -20,7 +20,7 @@ publishDate: "2014-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The IUCN Red List of Threatened Species"
+publication: "The IUCN Red List of Threatened Species"
 publication_short: ""
 
 abstract: ''
@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [mesangat]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
