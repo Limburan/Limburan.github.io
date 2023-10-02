@@ -134,9 +134,9 @@ sections:
           date_start: '2023-09-29'
           description: ''
           organization: New Scientist
-          organization_url: https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/
+          organization_url: ''
           title: We’ve just realised that a tiny West African crocodile can moo
-          url: ''
+          url: 'https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/'
     design:
       columns: '2'
   - block: markdown
