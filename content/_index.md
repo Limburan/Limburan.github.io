@@ -116,29 +116,39 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Featured'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-09-29'
-          description: ''
-          organization: New Scientist
-          organization_url: ''
-          title: We’ve just realised that a tiny West African crocodile can moo
-          url: 'https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/'
+  #- block: accomplishments
+  #  content:
+  #    # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #    title: 'Featured'
+  #    subtitle:
+  #    # Date format: https://wowchemy.com/docs/customization/#date-format
+  #    date_format: Jan 2006
+  #    # Accomplishments.
+  #    #   Add/remove as many `item` blocks below as you like.
+  #    #   `title`, `organization`, and `date_start` are the required parameters.
+  #    #   Leave other parameters empty if not required.
+  #    #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #    items:
+  #      - certificate_url: ''
+  #        date_end: ''
+  #        date_start: '2023-09-29'
+  #        description: ''
+  #        organization: New Scientist
+  #        organization_url: ''
+  #        title: We’ve just realised that a tiny West African crocodile can moo
+  #        url: 'https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/'
     design:
       columns: '2'
+  - block: portfolio
+    id: media
+    content:
+      title: Featured
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: markdown
     content:
       title: Fieldwork photos
