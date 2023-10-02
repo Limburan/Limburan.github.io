@@ -73,29 +73,6 @@ sections:
           description: Investigated ecological niche partitioning between sympatric crocodilians in a threatened wetland in East Kalimantan.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Media'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-09-29'
-          description: ''
-          organization: New Scientst
-          organization_url: hhttps://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/
-          title: We’ve just realised that a tiny West African crocodile can moo
-          url: ''
-    design:
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -139,6 +116,29 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Featured'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-09-29'
+          description: ''
+          organization: New Scientist
+          organization_url: hhttps://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/
+          title: We’ve just realised that a tiny West African crocodile can moo
+          url: ''
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: Fieldwork photos
