@@ -39,4 +39,4 @@ categories:
 
 ---
 
-Our paper *The low-frequency vocal repertoire of adult African dwarf crocodiles* (Staniewicz et al. 2023) was featured in New Scientist. Yu can read it here: [**We’ve just realised that a tiny West African crocodile can moo**](https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/)
+Our paper *The low-frequency vocal repertoire of adult African dwarf crocodiles* (Staniewicz et al. 2023) was featured in New Scientist. You can read it here: [**We’ve just realised that a tiny West African crocodile can moo**](https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/).
