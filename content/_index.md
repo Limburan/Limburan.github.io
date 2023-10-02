@@ -139,16 +139,6 @@ sections:
   #        url: 'https://www.newscientist.com/article/2394829-weve-just-realised-that-a-tiny-west-african-crocodile-can-moo/'
     design:
       columns: '2'
-  - block: portfolio
-    id: media
-    content:
-      title: Featured
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
   - block: markdown
     content:
       title: Fieldwork photos
