@@ -6,7 +6,7 @@ subtitle: Our recent paper covered by IFLScience
 summary: ''
 
 # Link this post with a project
-projects: []
+projects: [croc-bioacoustics]
 
 # Date published
 date: '2023-10-02T00:00:00Z'
