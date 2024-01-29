@@ -41,7 +41,7 @@ sections:
       items:
         - title: Postdoctoral researcher
           company: Adam Mickiewicz University
-          company_url: 'http://behaecol.home.amu.edu.pl/'
+          company_url: 'http://behaecol.web.amu.edu.pl/'
           company_logo: amu
           location: Poznań, Poland
           date_start: '2021-02-14'
