@@ -19,7 +19,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Adam Mickiewicz University
-    url: http://behaecol.home.amu.edu.pl/
+    url: http://behaecol.web.amu.edu.pl/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.

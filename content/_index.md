@@ -45,7 +45,7 @@ sections:
           company_logo: amu
           location: Poznań, Poland
           date_start: '2021-02-14'
-          date_end: ''
+          date_end: '2024-02-14'
           description: Investigating interspecific competition in bird communities in boreal, temperate and tropical forests using passive acoustic monitoring and playback experiments.
         - title: PhD researcher
           company: University of Bristol
