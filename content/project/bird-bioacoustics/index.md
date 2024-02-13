@@ -31,6 +31,6 @@ url_video: ''
 #slides: example
 ---
 
-I am currently a postdoc on an NCN-funded project *Interspecific competition for acoustic space in birds* led by Dr Michał Budka at the Department of Behavioural Ecology, Adam Mickiewicz University in Poland.
+During my postdoc I was part of an NCN-funded project *Interspecific competition for acoustic space in birds* led by Dr Michał Budka at the Department of Behavioural Ecology, Adam Mickiewicz University in Poland.
 
-We use passive acoustic monitoring and playback experiments to investigate strategies used by forest bird communities to minimise competition for acoustic space.
+We used passive acoustic monitoring and playback experiments to investigate strategies used by forest bird communities to minimise competition for acoustic space.
