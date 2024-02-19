@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Research scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Adam Mickiewicz University
-    url: http://behaecol.web.amu.edu.pl/
+  - name: Bat Conservation Trust
+    url: https://www.bats.org.uk/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a zoologist specialising in bioacoustics, behavioural ecology and conservation. I've worked on different animal taxa, including crocodilians, birds and primates in a variety of locations such as forests, wetlands and deserts. My main research interests focus on animal communication, species and biodiversity monitoring, interspecific competition, niche partitioning, and conservation of both disturbed and undisturbed habitats.
+I'm a zoologist specialising in bioacoustics, behavioural ecology and conservation. I've worked on different animal taxa, including bats, birds,crocodilians and primates in a variety of locations such as forests, wetlands and deserts. My main research interests focus on animal communication, species and biodiversity monitoring, interspecific competition, niche partitioning, and conservation of both disturbed and undisturbed habitats.
 {style="text-align: justify;"}

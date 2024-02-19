@@ -39,6 +39,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research scientist - ecoacoustics
+          company: Bat Conservation Trust
+          company_url: 'https://www.bats.org.uk/'
+          company_logo: bct
+          location: London, UK
+          date_start: '2024-02-19'
+          date_end: ''
+          description: Leading the research into innovative new bat population monitoring techniques using passive acoustic monitoring and AI.
         - title: Postdoctoral researcher
           company: Adam Mickiewicz University
           company_url: 'http://behaecol.web.amu.edu.pl/'
@@ -46,7 +54,7 @@ sections:
           location: Poznań, Poland
           date_start: '2021-02-14'
           date_end: '2024-02-14'
-          description: Investigating interspecific competition in bird communities in boreal, temperate and tropical forests using passive acoustic monitoring and playback experiments.
+          description: Investigated interspecific competition in bird communities in boreal, temperate and tropical forests using passive acoustic monitoring and playback experiments.
         - title: PhD researcher
           company: University of Bristol
           company_url: 'https://bristol.ac.uk/biology/'
