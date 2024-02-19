@@ -84,5 +84,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a zoologist specialising in bioacoustics, behavioural ecology and conservation. I've worked on different animal taxa, including bats, birds,crocodilians and primates in a variety of locations such as forests, wetlands and deserts. My main research interests focus on animal communication, species and biodiversity monitoring, interspecific competition, niche partitioning, and conservation of both disturbed and undisturbed habitats.
+I'm a zoologist specialising in bioacoustics, behavioural ecology and conservation. I've worked on different animal taxa, including bats, birds, crocodilians and primates in a variety of locations such as forests, wetlands and deserts. My main research interests focus on animal communication, species and biodiversity monitoring, interspecific competition, niche partitioning, and conservation of both disturbed and undisturbed habitats.
 {style="text-align: justify;"}
