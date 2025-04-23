@@ -11,7 +11,7 @@ authors:
 
 
 date: "2024-11-09T00:00:00Z"
-doi: "10.1016/j.indic.2024.100529
+doi: "10.1016/j.indic.2024.100529"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
