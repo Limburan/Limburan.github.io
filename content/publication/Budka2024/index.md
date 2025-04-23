@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/papers/Budka 2024 indicators.pdf'
+url_pdf: 'uploads/papers/Budka2024indicators.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
